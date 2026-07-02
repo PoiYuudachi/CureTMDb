@@ -1,0 +1,62 @@
+{
+  "91768": {
+    "name": "爱书的下克上：为了成为图书管理员不择手段！",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 14
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 12
+      },
+      {
+        "season_number": 3,
+        "name": "第三季",
+        "episode_count": 10
+      },
+      {
+        "season_number": 4,
+        "name": "第四季",
+        "episode_count": 12
+      }
+    ]
+  },
+  "95479": {
+    "name": "咒术回战",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 24
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 23
+      },
+      {
+        "season_number": 3,
+        "name": "第三季",
+        "episode_count": 24
+      }
+    ]
+  },
+  "110837": {
+    "name": "文豪野犬 汪！",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "季 1",
+        "episode_count": 12
+      },
+      {
+        "season_number": 2,
+        "name": "季 2",
+        "episode_count": 12
+      }
+    ]
+  }
+}
